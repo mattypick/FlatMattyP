@@ -1,7 +1,4 @@
-### Hello there!👋 My name is FlatMattyP😀
-
-
--  🌐 My portfolio website: [massaneman10.github.io](https://www.massaneman10.github.io)
+### Hello there!👋 
 
 
 ![FlatMattyP|github stats](https://github-readme-stats.vercel.app/api?username=FlatMattyP&show_icons=true)
